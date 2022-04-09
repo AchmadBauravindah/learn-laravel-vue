@@ -2,4 +2,6 @@
 - Install VueJS (php artisan ui vue)
 - npm install && npm run dev
 - edit app.js in /js/app.js
-- 
+- Install Vue Router (pakai npm install --save vue-router)
+- Buat router core di vuenya
+- buat views di vue nya

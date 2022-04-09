@@ -13,8 +13,14 @@
 
 <body>
     <main id="app">
-
+        <navigation></navigation>
     </main>
+
+    <div class="py-4">
+        <router-view></router-view>
+    </div>
+
+    <script src="/js/app.js"></script>
 </body>
 
 </html>
