@@ -1,0 +1,5 @@
+- Install laravel/ui (composer require laravel/ui)
+- Install VueJS (php artisan ui vue)
+- npm install && npm run dev
+- edit app.js in /js/app.js
+- 
